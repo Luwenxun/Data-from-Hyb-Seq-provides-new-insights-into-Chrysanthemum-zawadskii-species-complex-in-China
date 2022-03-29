@@ -30,7 +30,7 @@ Email: rao@pku.edu.cn
 
 SHARING/ACCESS INFORMATION
 
-These are the filtered datasets used in the analyses of the paper entitled "Hyb-Seq provides new insights into the phylogeny and evolution of the Chrysanthemum zawadskii species complex in China" by Lu et al. Please cite the paper and the Dryad archive when reusing these data.
+These are the filtered datasets used in the analyses of the paper entitled "Hyb-Seq provides new insights into the phylogeny and evolution of the Chrysanthemum zawadskii species complex in China" by Lu et al. Please cite the paper when reusing these data.
 
 DATA & FILE OVERVIEW
 
